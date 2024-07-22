@@ -1,4 +1,4 @@
-### Hi there 👋 ajflskdddddaslkfdjasklfjasklfjaslkfdjlskadjf
+### Hi there 👋
 
 <!--
 **yta3216/yta3216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
